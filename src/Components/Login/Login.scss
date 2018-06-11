@@ -1,0 +1,41 @@
+.Login-tab{
+    background-color: rgba(#f7f7f7,0.6);
+}
+.card-label{
+    font-size: 2rem;
+    font-weight: 700
+}
+.button{
+    border:none;
+    transition: all .2s;
+   
+    cursor: pointer;
+    &:hover{
+        transform: translateY(-0.5rem);
+        box-shadow: 1rem 1.5rem 4rem rgba(#000000,0.2);
+        
+
+    }
+
+    &:active{
+        transform: translateY(0);
+        box-shadow: none;
+    }
+}
+.button-bg{
+    background: linear-gradient(to top right ,rgba(#d7026b,1),rgba(#208dde,.9));
+    color:#f7f7f7;
+    text-transform: uppercase
+}
+.input{
+    border: none;
+   &:focus{
+       outline: none;
+    border-bottom: 2px solid #31b56f;
+    
+   }
+   &:focus:invalid{
+    outline: none;
+    border-bottom: 2px solid #fa5545;
+   }
+}

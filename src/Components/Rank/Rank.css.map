@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACI,AAAA,WAAO,EAAC,AAAA,UAAM,CAAA;EACV,WAAW,EAAE,cAAc;EAE/B,UAAU,EAAE,yDAAyD;EACrE,uBAAuB,EAAC,IAAI;EAC5B,KAAK,EAAE,WAAW;CAEjB",
+    "sources": [
+        "Rank.scss"
+    ],
+    "names": [],
+    "file": "Rank.css"
+}

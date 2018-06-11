@@ -1,0 +1,7 @@
+.rank__text, .rank__num {
+  font-weight: 700 !important;
+  background: linear-gradient(to top, #d7026b, rgba(32, 141, 222, 0.9));
+  -webkit-background-clip: text;
+  color: transparent;
+}
+/*# sourceMappingURL=Rank.css.map */

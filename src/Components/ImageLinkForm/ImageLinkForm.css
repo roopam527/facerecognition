@@ -1,0 +1,15 @@
+p {
+  color: #d7026b;
+  cursor: pointer;
+}
+
+.button-bg {
+  background: linear-gradient(to top right, #d7026b, rgba(32, 141, 222, 0.9));
+  color: #f7f7f7;
+  text-transform: uppercase;
+}
+
+input {
+  border: none;
+}
+/*# sourceMappingURL=ImageLinkForm.css.map */

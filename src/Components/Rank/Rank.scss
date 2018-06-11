@@ -1,0 +1,10 @@
+.rank{
+    &__text,&__num{
+        font-weight: 700 !important;
+      
+    background: linear-gradient(to top ,rgba(#d7026b,1),rgba(#208dde,.9));
+    -webkit-background-clip:text;
+    color: transparent;
+   
+    }
+}

@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier ,monospace;
+  background:linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)), url(img/bg-lg.jpeg) center center fixed no-repeat;
+  background-size:cover;
+}
